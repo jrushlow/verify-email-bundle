@@ -12,7 +12,7 @@
             </trans-unit>
             <trans-unit id="3">
                 <source>%count% day|%count% days</source>
-                <target>%count% dzień|%count% dni</target>
+                <target>%count% dzień|%count% dni|%count% dni</target>
             </trans-unit>
             <trans-unit id="4">
                 <source>%count% hour|%count% hours</source>
@@ -20,7 +20,7 @@
             </trans-unit>
             <trans-unit id="5">
                 <source>%count% minute|%count% minutes</source>
-                <target>%count% minuty|%count% minut</target>
+                <target>%count% minutę|%count% minuty|%count% minut</target>
             </trans-unit>
         </body>
     </file>
