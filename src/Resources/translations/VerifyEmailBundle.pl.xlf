@@ -4,19 +4,19 @@
         <body>
             <trans-unit id="1">
                 <source>%count% year|%count% years</source>
-                <target>%count% roku|%count% lat</target>
+                <target>%count% roku|%count% lata|%count% lat</target>
             </trans-unit>
             <trans-unit id="2">
                 <source>%count% month|%count% months</source>
-                <target>%count% miesiąca|%count% miesięcy</target>
+                <target>%count% miesiąc|%count% miesiące||%count% miesięcy</target>
             </trans-unit>
             <trans-unit id="3">
                 <source>%count% day|%count% days</source>
-                <target>%count% dnia|%count% dni</target>
+                <target>%count% dzień|%count% dni</target>
             </trans-unit>
             <trans-unit id="4">
                 <source>%count% hour|%count% hours</source>
-                <target>%count% godziny|%count% godzin</target>
+                <target>%count% godzinę|%count% godziny|%count% godzin</target>
             </trans-unit>
             <trans-unit id="5">
                 <source>%count% minute|%count% minutes</source>
